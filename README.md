@@ -1,16 +1,26 @@
-## Hi there 👋
+# Benhein Michael Ruben L 👋
 
-<!--
-**ben002mr/ben002mr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Assistant Systems Engineer | Cloud Operations & AI Researcher
+ECE Graduate specializing in the reliability of distributed systems and the development of autonomous, data-driven solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Professional Expertise (Cloud Operations)
+Currently at **Tata Consultancy Services (TCS)**, I manage high-availability infrastructure for enterprise-scale e-commerce platform (Woolworths).
+
+* **Observability & Monitoring:** Expert use of **Dynatrace, Azure App Insights, and PagerDuty** for real-time health tracking and incident response.
+* **Orchestration & Infrastructure:** Managing **Kubernetes (K8s) pods via Rancher** and performing root-cause analysis using Azure logs.
+* **Automation & Data Ops:** Monitoring and troubleshooting complex data workflows in **Apache Airflow** and managing CI/CD approvals in **Azure DevOps**.
+
+## 🔬 Research & Academic Projects
+* **AI-Driven Smart Parking:** Designed an IoT/Cloud system using **LSTM-based AI** on AWS Lambda. **Presented at IEEE ICUIS 2025**.
+* **Autonomous UAV Networks:** Proposed an AI-driven framework for autonomous communication relays. **Published in IJARCCE**.
+* **ECOVAL (Wildlife IoT):** Led a 5-member team to design a detection system using **OpenCV** and AWS Cloud.
+
+## 📂 Technical Toolkit
+**Languages:** Python, C++, Java, SQL  
+**Cloud/DevOps:** AWS (IoT Core, S3, Lambda), Azure, GCP, Kubernetes, Rancher, Airflow  
+**Data Science:** Pandas, Scikit-learn, OpenCV, LSTM Models.  
+
+---
+*Bridging the gap between robust cloud infrastructure and autonomous intelligence.*
