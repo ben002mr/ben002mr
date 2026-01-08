@@ -23,8 +23,8 @@ Currently at **Tata Consultancy Services (TCS)**, I manage high-availability inf
 **Data Science:** Pandas, Scikit-learn, OpenCV, LSTM Models.  
 
 ## 🚀 Featured Repositories
-- [**AI-Driven Smart Parking System**](https://github.com/ben002mr/AI-Driven-Smart-Parking-System): IEEE ICUIS 2025 Research on IoT & Bi-LSTM occupancy forecasting.
-- [**Cloud Ops & Infrastructure Sandbox**](https://github.com/ben002mr/Cloud-Ops-Infrastructure-Sandbox): Professional implementations of Kubernetes scaling, Dynatrace observability, and Azure DevOps CI/CD.
+- [**AI-Driven Smart Parking System**]([https://github.com/ben002mr/AI-Driven-Smart-Parking-System](https://github.com/ben002mr/AI-Smart-Parking-Optimization.git): IEEE ICUIS 2025 Research on IoT & Bi-LSTM occupancy forecasting.
+- [**Cloud Ops & Infrastructure Sandbox**](https://github.com/ben002mr/Cloud-Ops-Infrastructure-Sandbox.git): Professional implementations of Kubernetes scaling, Dynatrace observability, and Azure DevOps CI/CD.
 
 ---
 *Bridging the gap between robust cloud infrastructure and autonomous intelligence.*
