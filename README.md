@@ -8,9 +8,10 @@ ECE Graduate specializing in the reliability of distributed systems and the deve
 ## 🛠️ Professional Expertise (Cloud Operations)
 Currently at **Tata Consultancy Services (TCS)**, I manage high-availability infrastructure for enterprise-scale e-commerce platform (Woolworths).
 
-* **Observability & Monitoring:** Expert use of **Dynatrace, Azure App Insights, and PagerDuty** for real-time health tracking and incident response.
-* **Orchestration & Infrastructure:** Managing **Kubernetes (K8s) pods via Rancher** and performing root-cause analysis using Azure logs.
-* **Automation & Data Ops:** Monitoring and troubleshooting complex data workflows in **Apache Airflow** and managing CI/CD approvals in **Azure DevOps**.
+* **Orchestration & Scaling:** Manage high-availability **Kubernetes (K8s)** clusters via **Rancher**. Lead weekly **Blue-Green deployment** rotations by proactively scaling PODs in inactive clusters to ensure 100% capacity before traffic cutover.
+* **Full-Stack Observability:** Expert use of **Dynatrace** to monitor critical KPIs including failure rates (4xx/5xx), response times, and throughput. Implement **Synthetic health checks** and routine service "spotting" to ensure endpoint availability.
+* **Data Operations & RCA:** Perform Root Cause Analysis (RCA) on complex order flows using **MongoDB** queries, correlating Shopper IDs to Order IDs to pinpoint invoice PDF locations for auditing and troubleshooting.
+* **Automation & Pipelines:** Monitor search and pricing ingestion graphs via **Apache Airflow** (message count tracking and throughput validation). Manage **Azure DevOps** release libraries and deployment block approvals for frontend/backend service updates.
 
 ## 🔬 Research & Academic Projects
 * **AI-Driven Smart Parking:** Designed an IoT/Cloud system using **LSTM-based AI** on AWS Lambda. **Presented at IEEE ICUIS 2025**.
