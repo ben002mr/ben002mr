@@ -17,6 +17,7 @@ Currently at **Tata Consultancy Services (TCS)**, I manage high-availability inf
 * **AI-Driven Smart Parking:** Designed an IoT/Cloud system using **LSTM-based AI** on AWS Lambda. **Presented at IEEE ICUIS 2025**.
 * **Autonomous UAV Networks:** Proposed an AI-driven framework for autonomous communication relays. **Published in IJARCCE**.
 * **ECOVAL (Wildlife IoT):** Led a 5-member team to design a detection system using **OpenCV** and AWS Cloud.
+* [Kaggle] GTSRB Data Analysis: Investigating dataset imbalances for safety-critical autonomous perception.
 
 ## 📂 Technical Toolkit
 **Languages:** Python, C++, Java, SQL  
