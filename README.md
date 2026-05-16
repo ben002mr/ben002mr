@@ -1,32 +1,208 @@
 # Benhein Michael Ruben L 👋
 
-### Assistant Systems Engineer | Cloud Operations & AI Researcher
-ECE Graduate specializing in the reliability of distributed systems and the development of autonomous, data-driven solutions.
+## Assistant Systems Engineer | Autonomous Systems & Embedded AI Engineer
+
+ECE graduate focused on autonomous systems, robotics, embedded AI, automotive software engineering, and real-time intelligent systems.
+
+Currently working at Tata Consultancy Services (TCS), while building projects in:
+- Advanced Driver Assistance Systems (ADAS)
+- Embedded AI & Computer Vision
+- Autonomous Robotics
+- Cloud-integrated IoT Systems
+- Real-Time Distributed Infrastructure
 
 ---
 
-## 🛠️ Professional Expertise (Cloud Operations)
-Currently at **Tata Consultancy Services (TCS)**, I manage high-availability infrastructure for enterprise-scale e-commerce platform (Woolworths).
+# 🛠️ Professional Experience — Tata Consultancy Services (TCS)
 
-* **Orchestration & Scaling:** Manage high-availability **Kubernetes (K8s)** clusters via **Rancher**. Lead weekly **Blue-Green deployment** rotations by proactively scaling PODs in inactive clusters to ensure 100% capacity before traffic cutover.
-* **Full-Stack Observability:** Expert use of **Dynatrace** to monitor critical KPIs including failure rates (4xx/5xx), response times, and throughput. Implement **Synthetic health checks** and routine service "spotting" to ensure endpoint availability.
-* **Data Operations & RCA:** Perform Root Cause Analysis (RCA) on complex order flows using **MongoDB** queries, correlating Shopper IDs to Order IDs to pinpoint invoice PDF locations for auditing and troubleshooting.
-* **Automation & Pipelines:** Monitor search and pricing ingestion graphs via **Apache Airflow** (message count tracking and throughput validation). Manage **Azure DevOps** release libraries and deployment block approvals for frontend/backend service updates.
+Currently working as an Assistant Systems Engineer supporting enterprise-scale cloud infrastructure and production operations for a high-availability e-commerce platform.
 
-## 🔬 Research & Academic Projects
-* **AI-Driven Smart Parking:** Designed an IoT/Cloud system using **LSTM-based AI** on AWS Lambda. **Presented at IEEE ICUIS 2025**.
-* **Autonomous UAV Networks:** Proposed an AI-driven framework for autonomous communication relays. **Published in IJARCCE**.
-* **ECOVAL (Wildlife IoT):** Led a 5-member team to design a detection system using **OpenCV** and AWS Cloud.
-* **GTSRB Data Analysis (Kaggle):** Investigating dataset imbalances for safety-critical autonomous perception.
+### Cloud Infrastructure & Operations
+- Manage Kubernetes (K8s) clusters using Rancher
+- Support high-availability distributed systems
+- Participate in Blue-Green deployment rotations
+- Monitor production workloads and infrastructure reliability
 
-## 📂 Technical Toolkit
-**Languages:** Python, C++, Java, SQL  
-**Cloud/DevOps:** AWS (IoT Core, S3, Lambda), Azure, GCP, Kubernetes, Rancher, Airflow  
-**Data Science:** Pandas, Scikit-learn, OpenCV, LSTM Models.  
+### Observability & Monitoring
+- Use Dynatrace for system observability and application monitoring
+- Monitor failure rates, response times, throughput, and service health
+- Perform endpoint validation and synthetic monitoring
 
-## 🚀 Featured Repositories
-- [**AI-Driven Smart Parking System**](https://github.com/ben002mr/AI-Smart-Parking-Optimization.git): IEEE ICUIS 2025 Research on IoT & Bi-LSTM occupancy forecasting.
-- [**Cloud Ops & Infrastructure Sandbox**](https://github.com/ben002mr/Cloud-Ops-Infrastructure-Sandbox.git): Professional implementations of Kubernetes scaling, Dynatrace observability, and Azure DevOps CI/CD.
+### Data Operations & Troubleshooting
+- Perform Root Cause Analysis (RCA) on production incidents
+- Use MongoDB queries for order-flow investigations and diagnostics
+- Support operational troubleshooting across distributed services
+
+### DevOps & Pipeline Operations
+- Monitor Apache Airflow ingestion workflows
+- Support Azure DevOps deployment and release operations
+- Manage deployment approvals and production readiness checks
 
 ---
-*Bridging the gap between robust cloud infrastructure and autonomous intelligence.*
+
+# 🚗 Autonomous Systems & Embedded AI Projects
+
+## REAL-TIME EMBEDDED ADAS PLATFORM
+Developing a real-time embedded Advanced Driver Assistance System using:
+- Raspberry Pi 3B+
+- NodeMCU ESP8266
+- OpenCV
+- Real-time sensor communication
+- Driver monitoring and forward collision warning systems
+
+Core focus areas:
+- Real-time perception
+- Embedded communication
+- Automotive software engineering
+- Edge AI inference
+- Human-machine safety systems
+
+---
+
+## Intelligent Hybrid Navigation System
+Developed a ROS2-based autonomous navigation framework integrating:
+- ROS2
+- Nav2
+- LiDAR-based obstacle detection
+- Reactive obstacle avoidance
+- State-machine navigation control
+- Gazebo simulation
+- RViz visualization
+
+Focused on stable real-time autonomous navigation and collision-free robotic movement.
+
+---
+
+## ROS2 Traffic Perception System
+Developed a ROS2-based traffic perception and control pipeline integrating:
+- YOLO-based object detection
+- Rule-based braking logic
+- Speed-control systems
+- Telemetry logging
+- Distributed ROS2 communication
+
+Focused on perception-to-control integration for intelligent transportation systems.
+
+---
+
+## AI-Driven Smart Parking System
+IEEE ICUIS 2025 Research Project
+
+Designed an IoT + Cloud AI architecture for smart parking optimization using:
+- AWS Lambda
+- IoT systems
+- Bi-LSTM occupancy forecasting
+- Real-time analytics
+- Google Maps API integration
+
+---
+
+## ECOVAL — Wildlife Detection & Deterrence System
+Led a 5-member team to develop an autonomous wildlife monitoring system using:
+- OpenCV
+- AWS Cloud
+- Ultrasonic sensing
+- PIR detection
+- Real-time alert systems
+
+Focused on reducing human-wildlife conflict using intelligent embedded systems.
+
+---
+
+## Autonomous UAV Communication Framework
+Published research proposing AI-driven autonomous UAV communication relay systems for resilient aerial networking.
+
+Published in IJARCCE.
+
+---
+
+# 📂 Technical Toolkit
+
+## Programming
+- Python
+- C++
+- C
+- Java
+- SQL
+
+## Embedded & Robotics
+- Raspberry Pi
+- ESP32 / ESP8266
+- Arduino
+- ROS2
+- Sensor Integration
+- Embedded Communication
+- UART
+- MQTT
+
+## AI & Computer Vision
+- OpenCV
+- Scikit-learn
+- YOLO
+- LSTM Models
+- Data Analysis
+- Edge AI Concepts
+- Sensor Fusion
+
+## Cloud & DevOps
+- AWS (IoT Core, Lambda, S3)
+- Azure
+- GCP
+- Kubernetes
+- Rancher
+- Apache Airflow
+- Azure DevOps
+- Dynatrace
+
+---
+
+# 📈 Current Focus
+
+- Automotive Software Engineering
+- ADAS & Intelligent Transportation Systems
+- Embedded AI Systems
+- Robotics & Autonomous Machines
+- Real-Time Distributed Systems
+- AI for Edge Devices
+
+---
+
+# 🤖 Research Interests
+
+- Autonomous Navigation Systems
+- Robotics Middleware (ROS2)
+- Intelligent Transportation Systems
+- Automotive Safety Systems
+- Embedded Edge AI
+- Real-Time Embedded Computing
+- Sensor Fusion & Perception
+- Human-Machine Interaction
+
+---
+
+# 🚀 Featured Repositories
+
+- [**REAL-TIME EMBEDDED ADAS PLATFORM**](https://github.com/ben002mr): Real-time embedded ADAS prototype integrating driver monitoring, forward collision warning, UART telemetry, and embedded safety feedback using Raspberry Pi, NodeMCU, and OpenCV.
+
+- [**Intelligent Hybrid Navigation System**](https://github.com/ben002mr/Intelligent-Hybrid-Navigation-System): ROS2 + Nav2 autonomous navigation framework integrating LiDAR-based reactive obstacle avoidance, state-machine control, and Gazebo simulation.
+
+- [**ROS2 Traffic Perception System**](https://github.com/ben002mr): ROS2-based perception-to-control pipeline integrating YOLO object detection, telemetry logging, and rule-based braking/speed control logic.
+
+- [**AI-Driven Smart Parking System**](https://github.com/ben002mr/AI-Smart-Parking-Optimization): IEEE ICUIS 2025 research project on IoT + Bi-LSTM-based parking occupancy forecasting using AWS cloud infrastructure.
+
+- [**ECOVAL — Wildlife Detection System**](https://github.com/ben002mr): IoT and AI-powered wildlife monitoring and deterrence platform integrating OpenCV, AWS IoT, PIR sensing, and real-time alert systems.
+
+- [**Cloud Ops & Infrastructure Sandbox**](https://github.com/ben002mr/Cloud-Ops-Infrastructure-Sandbox): Professional implementations of Kubernetes operations, Dynatrace observability, Azure DevOps workflows, and production infrastructure monitoring.
+
+---
+
+# 🌍 Vision
+
+Building intelligent systems that combine:
+- Embedded engineering
+- Artificial intelligence
+- Real-time computing
+- Autonomous decision-making
+- Reliable infrastructure
+
+with the goal of contributing to next-generation autonomous technologies, robotics, and automotive software systems.
