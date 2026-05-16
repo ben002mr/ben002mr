@@ -182,15 +182,15 @@ Published in IJARCCE.
 
 # 🚀 Featured Repositories
 
-- [**REAL-TIME EMBEDDED ADAS PLATFORM**](https://github.com/ben002mr): Real-time embedded ADAS prototype integrating driver monitoring, forward collision warning, UART telemetry, and embedded safety feedback using Raspberry Pi, NodeMCU, and OpenCV.
+- [**REAL-TIME EMBEDDED ADAS PLATFORM**](https://github.com/ben002mr/Real_Time_Embedded_ADAS_Platform): Real-time embedded ADAS prototype integrating driver monitoring, forward collision warning, UART telemetry, and embedded safety feedback using Raspberry Pi, NodeMCU, and OpenCV.
 
 - [**Intelligent Hybrid Navigation System**](https://github.com/ben002mr/Intelligent-Hybrid-Navigation-System): ROS2 + Nav2 autonomous navigation framework integrating LiDAR-based reactive obstacle avoidance, state-machine control, and Gazebo simulation.
 
-- [**ROS2 Traffic Perception System**](https://github.com/ben002mr): ROS2-based perception-to-control pipeline integrating YOLO object detection, telemetry logging, and rule-based braking/speed control logic.
+- [**ROS2 Traffic Perception System**](https://github.com/ben002mr/ros2-traffic-perception-control): ROS2-based perception-to-control pipeline integrating YOLO object detection, telemetry logging, and rule-based braking/speed control logic.
 
 - [**AI-Driven Smart Parking System**](https://github.com/ben002mr/AI-Smart-Parking-Optimization): IEEE ICUIS 2025 research project on IoT + Bi-LSTM-based parking occupancy forecasting using AWS cloud infrastructure.
 
-- [**ECOVAL — Wildlife Detection System**](https://github.com/ben002mr): IoT and AI-powered wildlife monitoring and deterrence platform integrating OpenCV, AWS IoT, PIR sensing, and real-time alert systems.
+- [**ECOVAL — Wildlife Detection System**](https://github.com/ben002mr/ECOVAL-IoT-Wildlife-Protection): IoT and AI-powered wildlife monitoring and deterrence platform integrating OpenCV, AWS IoT, PIR sensing, and real-time alert systems.
 
 - [**Cloud Ops & Infrastructure Sandbox**](https://github.com/ben002mr/Cloud-Ops-Infrastructure-Sandbox): Professional implementations of Kubernetes operations, Dynatrace observability, Azure DevOps workflows, and production infrastructure monitoring.
 
