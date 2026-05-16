@@ -38,6 +38,13 @@ Currently working as an Assistant Systems Engineer supporting enterprise-scale c
 - Support Azure DevOps deployment and release operations
 - Manage deployment approvals and production readiness checks
 
+### AI Innovation & Mentorship
+- Participated in internal TCS AI hack initiatives focused on rapid AI application development
+- Built AI-driven prototype applications using enterprise GPT-based platforms and agentic workflows
+- Selected as an AI Mentor for consecutive hack cycles due to strong performance
+- Guided teams in solution architecture, AI integration, and rapid prototyping under constrained development timelines
+- Selected for advanced stages of the AI innovation program
+
 ---
 
 # 🚗 Autonomous Systems & Embedded AI Projects
